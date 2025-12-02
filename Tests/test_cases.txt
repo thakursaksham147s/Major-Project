@@ -1,0 +1,8 @@
+Test cases for PFTEA
+
+1) Add 3 expenses manually and list them. Verify totals and IDs.
+2) Export to CSV and open data/export.csv to see matching fields.
+3) Save DB (option 4) and then load DB (option 5) in a new session to verify persistence.
+4) Run monthly summary for 2025-11. Verify total equals sum of added expenses in that month.
+5) Import data/sample_import.csv and verify new records added.
+6) Delete an expense by ID and confirm it's removed from list.

@@ -1,0 +1,20 @@
+Example session outputs (abridged):
+
+Added expense id 1
+Added expense id 2
+Added expense id 3
+
+ID  Date       Amount    Category        Note
+-------------------------------------------------------------
+1   2025-11-01   40.50    Food            Lunch at canteen
+2   2025-11-02  300.00    Transport       Monthly pass
+3   2025-11-03  499.99    Shopping        Headphones
+
+Summary for 2025-11
+Total spent: 840.49
+Average per active day: 280.16
+
+Category breakdown:
+Food         :     40.50  #####
+Transport    :    300.00  #########################
+Shopping     :    499.99  #################################
